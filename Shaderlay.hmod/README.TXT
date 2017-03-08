@@ -1,4 +1,4 @@
-# RetroArch Shaderlay Injection
+# RetroArch Shader Injection Module
 This is a hakchi/hakchi2 module which will add Shaders to the default folder location on NES Mini:
 "/etc/libretro/shaders"
 
