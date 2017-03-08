@@ -1,2 +1,0 @@
-rm "$rootfs/etc/libretro/shaders/."
-return 1
